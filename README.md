@@ -55,9 +55,9 @@ This project uses the following datasets:
 
 | Dataset | Description                                           |
 | ------- | ----------------------------------------------------- |
-| FER2013 | Large-scale facial emotion dataset (Western dominant) |
+| FER2013 | Large-scale facial emotion dataset |
 | CK+     | Controlled facial expression dataset                  |
-| KFE     | Korean Facial Emotion dataset (AI Hub)                |
+| KFE     | Korean Facial Emotion dataset (AI Hub in korea)                |
 | JAFFE   | Japanese female facial expression dataset             |
 
 ### Preprocessing
