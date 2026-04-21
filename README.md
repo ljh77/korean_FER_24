@@ -179,15 +179,6 @@ Observations:
 
 ---
 
-## 11. Future Work
-
-* Domain adaptation for cross-dataset generalization
-* Attention-based CNN models
-* Lightweight models for real-time inference
-* Integration with real-time emotion recognition systems
-
----
-
 ## 12. Reference
 
 If you use this repository, please cite:
