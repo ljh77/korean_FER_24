@@ -33,7 +33,7 @@ korean_FER_24/
 │   ├── KFE/
 │   └── JAFFE/
 │
-├── models/
+├── ipynb/
 │   ├── mobilenet.py
 │   ├── vgg16.py
 │   ├── resnet50.py
