@@ -140,15 +140,6 @@ This will automatically run:
 ---
 
 ## 8. Results
-
-Example results:
-
-| Model     | Dataset | FER2013 | KFE     | JAFFE |
-| --------- | ------- | ------- | ------- | ----- |
-| Xception  | All     | High    | Highest | High  |
-| VGG16     | All     | High    | High    | High  |
-| MobileNet | All     | Lower   | Lower   | Lower |
-
 Observations:
 
 * Xception performs best overall
