@@ -182,9 +182,12 @@ If you use this repository, please cite:
 
 ## 13. GitHub
 
+
 Project repository:
+
 https://github.com/ljh77/korean_FER_24
 
 ##Contact
 Jun-Hyeong Lee
+
 yjhboky@gmail.com
