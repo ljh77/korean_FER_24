@@ -24,6 +24,7 @@ Key findings:
 ## 2. Project Structure (Not Ready)
 ```
 **Each dataset must be downloaded from the original author’s GitHub or website, or accessed after obtaining permission.**
+
 korean_FER_24/
 │
 ├── datasets/
