@@ -1,4 +1,4 @@
-# korean FER classification accuracy improve(2024)
+# Korean FER Classification Accuracy Improve(2024) - CNN Computer Vision
 
 ## 1. Overview
 
