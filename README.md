@@ -21,10 +21,9 @@ Key findings:
 * Models trained only on Western datasets underperform on Asian faces
 
 ---
-
 ## 2. Project Structure (Not Ready)
-
 ```
+**Each dataset must be downloaded from the original author’s GitHub or website, or accessed after obtaining permission.**
 korean_FER_24/
 │
 ├── datasets/
@@ -34,21 +33,16 @@ korean_FER_24/
 │   └── JAFFE/
 │
 ├── ipynb/
-│   ├── mobilenet.py
-│   ├── vgg16.py
-│   ├── resnet50.py
-│   ├── xception.py
-│   └── densenet.py
+│   ├── mobilenet(new_1~)
+│   ├── vgg16(new_3~)
+│   ├── resnet50(new_5~)
+│   ├── xception(new_2~)
+│   └── densenet(new_4~)
 │
-├── experiments/
-│   ├── exp_fer2013.py
-│   ├── exp_fer_ck.py
-│   └── exp_all.py
-│
-├── train.py
-├── evaluate.py
-├── config.yaml
-├── run_all_experiments.py
+├── train.py (Not Ready)
+├── evaluate.py (Not Ready)
+├── config.yaml (Not Ready)
+├── run_all_experiments.py (Not Ready)
 └── README.md
 ```
 
