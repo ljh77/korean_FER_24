@@ -1,4 +1,4 @@
-# korean_FER_24
+# korean FER classification accuracy improve(2024)
 
 ## 1. Overview
 
