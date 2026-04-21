@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This repository provides an experimental framework for facial emotion recognition (FER) focused on **improving classification accuracy for Koreans and East Asians.**
+This repository provides an experimental framework for **facial emotion recognition (FER) focused on improving classification accuracy for Koreans and East Asians.**
 
 This work is based on the following paper:
 
